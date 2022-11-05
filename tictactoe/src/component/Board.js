@@ -1,5 +1,5 @@
 import React from 'react'
-import './Board.css';
+import './Board.scss';
 function Board(props) {
   return (
     <div className='board'>
