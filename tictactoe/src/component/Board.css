@@ -1,0 +1,21 @@
+.board{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.board .board-row{
+    display: flex;
+    flex-direction: row;
+     
+ }
+ .board .board-row button{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    width: 50px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+
+     
+ }
